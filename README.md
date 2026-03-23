@@ -1,1 +1,1 @@
-# deeppulse https://github.com/liyonelectronics-arch/deeppulse
+Privacy Policy for Deep Pulse
