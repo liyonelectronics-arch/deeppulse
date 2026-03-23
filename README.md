@@ -1,2 +1,1 @@
-Privacy Policy for Deep Pulse
-https://github.com/liyonelectronics-arch/deeppulse
+[Privacy Policy](https://liyonelectronics-arch.github.io/deppulse/privacy.html)
